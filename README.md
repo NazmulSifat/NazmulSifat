@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nazmul Islam Sifat</h1>
 
-<h3 align="center">Full Stack Developer | Founder & CEO | Product Builder</h3>
+<h3 align="center">Full Stack Developer | Co-Founder | Product Builder</h3>
 
 <p align="center">
   Building modern web applications, scalable backend systems, and technology-driven products.
@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science & Engineering Student at AIUB
-- 💼 Founder & CEO at Prostuti Technologies Ltd.
+- 💼 Co-Founder at Prostuti Technologies .
 - 🚀 Building **Prostuti – Prepare Better**
 - 🌱 Exploring Full Stack Development and System Design
 - 💡 Interested in AI, Software Architecture, and Entrepreneurship
